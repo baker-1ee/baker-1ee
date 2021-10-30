@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there 👋
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeemoong&show_icons=true&theme=vue)
-<!--
-**zeemoong/zeemoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center"> Techs that I've used at least once </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/jQuery-005571?style=flat-square&logo=jQuery&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Hibernate-yellowgreen?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle SQL-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Git-333664?style=flat-square&logo=Git&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/GitHub-333664?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitKraken-333664?style=flat-square&logo=GitKraken&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse-blueviolet?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IntelliJ-333664?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+</p>
