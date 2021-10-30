@@ -26,3 +26,7 @@
   <img src="https://img.shields.io/badge/Eclipse-blueviolet?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ-333664?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
 </p>
+
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fzeemoong&count_bg=%2379C83D&title_bg=%23555555&icon=opensourceinitiative.svg&icon_color=%23CECBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
