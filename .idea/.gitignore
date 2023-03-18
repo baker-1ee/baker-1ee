@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ project files
+.idea/
+
+# Compiled output
+/out/
+
+# Maven generated files
+target/
+
+# Gradle generated files
+build/
